@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Madin Phagami</h1>
-<h3 align="center">A aspiring Web Developer based in Tāmaki Makaurau / Auckland, New Zealand</h3>
+<h3 align="center">Aspiring Web Developer based in Tāmaki Makaurau / Auckland, New Zealand</h3>
